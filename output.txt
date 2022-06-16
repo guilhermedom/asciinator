@@ -1,0 +1,300 @@
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$SSSSSSSSGGGSSSSSSSSSSSSSSO+}??+}=S$S=OS$$$$$$$$$%%%%%%%%%%%%%XXXXXXXXXXXX
+$$$$$$$$$$$$$$$$$$$$$$$$SSSSSSGO==+}?!=*+SSSSSGOOGG=+?|||*==-!?!=-!=$$$$$$%%%%%%%%%%%%%%%%XXXXXXXXXX
+$$$$$$$$$$$$$$$$$SSSSSSSSSSSG=??}+++=+?=-*=G=|=~,^+}}?|!*?O=}}+?!!*-=}G$$$%%%%%%%%%%%%%%%%XXXXXXXXX%
+$$$$$$$$$SS$$S$$SSSSSSSSSSSG=+?+OS$$$G}?????|!-^~;*|!=^~^!+=OGO=O=}|!=^!=$$%%%%%%%%%%%%%%%XXXXXXXXXX
+$$$$$$$SSSSSSSSSSSSSSSSSSSS=+}}GGGOOO=}?|!***===---^^^^^~~~;;^=!|!}O=}|*=*=$$$%%%%%%%%%%%%XXXXXXXXX%
+$$$$$$$SSSSSSSSSSSSSSSSSSSGO+}?=+}}}?||!****===---^^^^^^~~~~;;;;;,;-**!||~^-|G$%%%%%%%%%%%%XXXXXXXX%
+$$$$$$$$SSSSSSSSSSSSSSSSO=++=+}}}}?||!!*****==----^^^^^^~~~~~;;;,,,,,,,,,,,;;~*S$$%%%%%%%%%XXXXXXXX%
+$$$$$$SSSSSSSSSSSSSSSSO+}???}|!!|||||!!!!****==---^^^^^~~~~~~;~;;;;,,"""",,,;-**||$%%%%%%%%XXXXXXXX%
+$$$$S$SSSSSSSSSSSSSSG+}+}}}}}}}?????|||!!!!***==--^^^^^~~~~~~;;;;;;,,,"""",,,,~|}!}$$%%%%%XXXXXXXXX%
+$$$SSSSSSSSSSSSSSSSG}=O===+}}}}}}}????||||!||!**==------^~~~~;~;;;;,,,,,"""",,,^|!-=S%%%%%%%XXXXXXX%
+$$SSSSSSSSSSSSSSSS=}}+GO=+}}}}}???????||||!||!!|!***======-^^^^~~~;;,,,,"""",,~--^^^!$%%%%%%XXXXXXX%
+$$$SSSSSSSSSSSSSG+}}}}}}}}??}}???????|||||||||||!!!*******==--^^~~~;;,,""""'''",,^*-~?$%%%%%%%XXX%%%
+$SSSSSSSSSSSSSG=}}??}?}}}??}}?????||||||||???||!!!!!!!!!!****=--^^~~;,;,"''"'''"",??!-==$%%%%%%%X%%%
+SSSSSSSSSSSSS=}}}???|?}?????}}????|||||||????|||!!!!!!!!!!!***==--^^~;;,""''''''""-+=}|*!S%%%%%%X%%%
+SSSSSSSSSSSS=}}}??????}}}}}}}}????|||?|||??||||!!!!|!!!!!!!!***==--^^~;;,"'''''''"~|+}?|-;=%%%%%X%%%
+SSSSSSSSSSG=+}}???++}}}}}}}}}}}???????|||?|||||!!!!!!!!!!!!!!***==--^~;;,"'''''''";*}?||^,;O%%%%X%%%
+SSSSSSSSO+}}??}++=+???}}}}}}}}?????????|||||||!!***!!!***!!**==--^^~~~;;,,''.''''';=??|!;;,;=%%%%X%%
+SSSSSSG=+++++==O=???????}}}}}}??????????||||||!!*********!!***=----^~~~;;,"''''''"~!}||!~|=,^O%%%%%%
+SSSSSS=++}++}+==??}}?}}}}}}}?}}????||?|||||||||!!!!!!!!!!|?|!!**==--^~~;,,""'''''"~}+?|!^|!~~-G%%%%%
+SSSSSS+}}}||}=O+}}}?+=}}+}}?????????|||||||||||!!!!||!!|||?|!*==--^^~~~;,,"''''''';!}}?!!*}|;~-G%%%%
+SSSSSG+}+}||??}????}++}}}}}???????????????||!!!**********!||!**=------^^~;,,""''''";-?!*!?*|?~~^O%%%
+SSSSS===+}+==+}?????}}}}}+}}??????}}}????????|||******!*!!||||!!*=====-^~;,"""'''''";~*!|?}|-*=~~S%%
+SSSSO}}+=OOOGGG=??||}}}}}}}}?}?}}}}}}???????????|!!!!!*!|||?||||!!!***=--^~~;""''''";-~~=||}}-~~,,O$
+SSSO}}}}+OOGGGOO=?}?|}++}}}}}}?}}}}}}}?}??||????||||||!*||???|||!!|????|||?!*-^;"'''"!|=-^-=?}^=-^=S
+SSO+}++++}=OOGOOGO+?|}+++}}}}+}}}}+++++}+}}}}????????????|???|||??}}}+++++?|=-^^~,'''^}}?|!!-||;^~=S
+SS====}}}=OOOOO+=GOOO+=++++++}}}}}}}}}}++===++++}}}}}}}}}}}}??||?}+++++}}}?!=^;,;~,"'"|=+}}?|=|-=*-S
+SSO=O===OOOOO=++=O+GS======+++}}}????|||??}+====++++}}????||?||}====++}}}}}?|*-~;;,"''*=OO+}|*--=!=*
+SS=}OOO==O=+}}+=O+==+======++}}}???}}}}}}}}}+=====+????|||*^-!====++}}??}?|*-~~==~;;"'~===+}}|-~-*=~
+S+|||??|||!||}=++==++++++=++++++=+}}}}}+}}}+=OOOOO=}???!*=^~^!OO==+++++++=+++}?-?}!^,''!+}}?}!--~^=^
+G}?|||??||||!||}}}}+++}+========+======+==OO==GGOO=}???!=-~,;*}}}}++}}}}++?|*-==?}|-;'',??!!!!---^~,
+G=+}||}??|!|||?}=OO=+}}???}+OOG=O=+}}+}}}}++O=+++}+}}?||*-~,",*?}}???????|!=^;,~**!*~"''^!!!|!===*-~
+SGGGO}??|||||}+==++=+}???????}+}}}}}}}}}}}???????}}}??|!=^;"''"^*?????||||*-~,,~^--^;""'-+++}!!!|*-;
+SSSSGG}||!!!|???||}+}?||!!!|!|||?}???????}}}}???}}}}?|!!*=-;"''",~^*!|||||!-~;;~~~~;""""*=?||???|-~}
+SSSSSG}?||!!?|!!!!}+}?||!!!!!!!|||????||???||?}}+=+}?|????|=;,"'''",,~^=*!!=-^^^^~~,"","=}||||???+S$
+SSSSGGO===+}|!||!!}=+??|!!!!!*!!!!!!!||!!!|||?+++=+}?}+==O=?*-~,"''"~~;,,~-====---~;,"",;!|||!!|}%%$
+SSGGGSGOOOOO=}?||?+=+}??||!!!!!!!!!!!!!!!!||?}++}?}}=====+=+}|=^;"''-|!=~;;;~^-=--^~;,,,';|||*!}$%$$
+SSSSGGGGGOGGG=}}}}+==}}}??|!!!!!!!!!!!**!||?}++}??}====OO===+?!!||=,~||||*-^~~~^-^^;;;,"""~-|O$%%%%$
+SGSSGGGGGGGG}??|!!?==+}}}??||!!!!!!!!!!||?}}=+===OOGOOO===OO=+GSSO=}*?}}}?|*=^~~~^~;;,,',;^;-$%%%%%$
+SSGGGGGGGGGG=++OO?!}++}}}???||!!**!!||||?}+}+=OOGGGGSGGGOOO+}==O+}++}}}}}}??!=^~~~~;;,,",-=-,+%%%%%$
+SGGGGGGGGGGGO=OO}?|??++}}}}}?|||!!!!|||?}+???}}???????}}+=O+|!=^~~~-*|}}}}??|!-^~~~;,,","~-*~=%%%X%$
+GGGGGGGGGGGGGO}}}?}}}?}}}}}???}??||!||?}}|||||||?||||||*=|?}*-~,,,,;^-=!?}???|*-~~~;,,'";,~*=!$%%%%$
+GGGGGGGGGGGG=?|}+}?||?}}}?}}}}}??|||?}+?||||||??||||||!*^!}?|!-~;;,,,,,;~=!???|*-~;,;,~,,,,~!O$%%%%$
+SGGGGGGGGGGG+?|????||!????????}?????}+??????||||?|!|||*-^;!?!|--^!-;;;;;,""~!|!*-~~~~;-**^;,?$$%%%%$
+GGGGGGGGGGGGG=?!?+==+?|?}}??????|??}}??||||?|||?||!!|?!*==*}?|*=*?}|^,-~,",'"-!-^~,~~~!?|*=~~$$%%%%$
+GGGGGGGGGGGGG}?}||}=O=}|}}????||??????|!?!!||?|}}}}}}++++}}}}}??|?+}?=|!=;-,"";=-~,"~^*||?}?=}$%%%%$
+GGGGGGGGGGGGO=?|}?|}GGO}}+}}}??????}}?||?|!?}}+++==========OOOOOO====+}?!=*~;;",--^~,-^=!=^=!~O%%%%%
+GGGGGGGGGG=??=+!!||?|?}=+++}}}??}}}}+}?||?}+=OSSSSS$$$$%$$%%XXXXX%%%$G==}?|*^-,;",,;;^*^=|-;^~G%%X%%
+GGGGGGGGG+|||?}|!|?||||}}}+}}}}}}????}}??}=G$XX%SOO=}}}+++++}+OOS$$%XXO++++}?*~~""~;";!!=?|~,-$%%%%$
+GGGGGGGGG?!???|?||||||???}?}?}}}}}?||??||}=XX$G=}}?????}}}??}}}+++O$%8XGGO+}?!--;,;=;;||=??-"!$%%%%$
+SSGGGGGGG=|?}?!||||?}}?}?????++}}}?!!||||?G%G=+}+}}}}}}}?????}???}}+=S%S=++}}|=-^;~^~^|!*?|~"+%%%%%$
+SGGGGGGGGO}?}|||??+=+}}?||??}}???}+||||??|++==+}}??|?|?|?|||||||?}}}}}+O======}*--^;-*!|??=~,G%%%%%$
+GGGGGGGGGGO+}|?}=O=}|?}||||?}}|||?+}??|?}?}}++}}}????||||??||!!!!|?}}}}}OOO=+}|=^-^;~*|||!-^~$%%%X%$
+SGGGGGGGGGGGO}++++?||}}||||?}}?|?|}??}}?|?=??}}}}}||?}||!|?|!*-*!*!?}}}}+===+}?*=--^~*|?}}!^+%%$%%%$
+SGGGGGGGGGGGGO==?}?|?}}?!!|??+=?|?|?}||??}=}?}}}}}+}}}}?|||***=****!??}}+==+++}|=~^=;!}O=}?==$%%%X%$
+GGGGGGGGGGGGGGGSG}?||}}=?|||?}=G+????}??}==+}}}}???}}}}}+}??||!****!|?|?++++}|!**=-~;~-???|!!$%%%X%$
+GGGGGGGGGGGGGGGG=???|}?}O=+?!|}+OOO==+=++}}}+}}}||||?}}}+}++}}?||!!|}?!!}+}+}?|*=--^;;;^||*-=$$%%X%$
+GGGGGGGGGGGGGGGG=???|?}|??+=}||}====+}|||??=++}???????|!|}}++}+|!!*}}}?*?==+}?||||*=^,~,-||?=$$%%X%$
+GGGGGGGGGGGGGGGGG+}??}+?|?!|?}??}}++++}????+O+}?|||+==+?|?||??}}?!!?+++?}=+}}??+}|-=|^,;,~?S$%%%%X%$
+GGGGGGGGGGGGGGGGGG+}}}}=???!||||?||?++?}}}}+OG+}||*==!|?!!!|||??}||}}}}+++}}|=!!*|^-}}!;,,!$%%%%XX%$
+GGGGGGGGGGGGGGGGGSS=}+}=O}}}|||!|?|||++}++=??GO+}?||!-^~~-!!|?|!*!|??}}}+}}}!*|*-|--}++}*}$%%%%%XX%$
+GGGGGGGGGGGGGGGGGSSSSSG?OG=+}??||?|||?+}}++?|+GGGO=}}?|*^,~-***=-=!|????|?}?!!|!*|--***+S$$%%%%%%X%$
+GGGGGGGGGGGGGGGGGS$$$$$=|+GG=+}??}||||?}}}}+??}+OGGGOO=}?!~;-*!*~^!|??}}}?|*=*!=|*=!-~-G$$$%%%%XXX%$
+GGGGGGGOGGGGOGGGG=OS$$$S+?|?=OO==}???||??|?+}?|?}??}+=OO=}!^*||!~,-!|!!!*=-==**!*-=|}+G$$$$%%%%%XX%$
+GGGGGGGGGGGGGGGGG++S$$$$G+}||?==+}}}??||????+}?||}}}}??}++}|||?||^";-******|!!**^;",|$$$$$$%%%%%XX%$
+GGGGGGGGGGGGGGGGGOOS$$$$$S=}||??}}??}??||?}}}=+}??|||???}=+????+?|=,';====!||*=--^~^O$$$$$$%%%%%XX%$
+GGGGGGGGGGGGGGGGGO+O$$$$$$SO+}}}}}+?}??!|?}?||}==+}}?|||||}++}???|!*^,,-=||?!-^=*-^!|=S$$$%%%%%%XX%$
+GGGGGGGGGGGGGGGOOO=}}=OG$$$$SGGG=++??|||?}}}|???+OO=+}????}+===+}?!*==;^!|??=~=!*~^*!|?O$$$%%%%XXX%$
+GGGGGGGGOG+????|??}}}??}S%%$$$$S+}?????|?}}?|??|?+=OOO=}}++=======}?!--=!?|}*~!*^^*!*!|?}G$%%%%XXX%$
+GGGGGGGGGO?|?||?}}}++}}}=$$%%%$$O=}}}??}+}?||?}}+++==GO=+=}}}+==++==}=*|!}|==~**-!!!!!!!|!}S%%%%XX%$
+GGGGGGGGGO}}}}}}+=OOO+}??+S%%$$$S=+}}?|||?????}==||??}=OG}}+}}}+=+}+?*}}}}}}=;-*=!!*****!!!!}$%%X%%$
+GGGGGGGGOO=====++==GSG+}???+GS$S$$SGO==}}}+++===?|||||?=}}}}++}?}+}}}}}++++}}!-!**==!**!!!!!!|+%XX%$
+GGGGGGGOGO=========G$$$O+}????}}=%%$SSGSGGOGGG=?|??????}?}++}}}????=}}}}+===+}**=**=*!****!*!!!|O%%$
+GGGGGGGOGOOOOOOOOOOO$%%%$G+}????G$$$$$$$$SSG+}}?|?????}}}?+=??|!!*}}}?}}}}+=+|*****==******|!*!!*|G$
+GGGGGGOGGGOOGOOOOOOOG%XXXX%S=???+SSS$$$$%%$O}}}||??||||}??}+?!!=-^=|!?????}}|==******===*==!!*===**?
+GGGGGGOOGGOOGOOGOOOGGS%XXXX8X$=}?=SS$$$$%%%G+???|?||||??|?}+}|*^--~^=!|?|!!*===*****==**===!*=====**
+GGGGGGGOGOOOOOOOGGGGGGGS%X88888%S=++=GS$%%%S=+=}}}}}+}}}}++==}?~;=*^-|!***==============*=*!=======*
+GGGGGOOOOOOOOOOOOGGGGGOOGS$X888888X$G=+===G$G==+++==+++=+}+OO++|*^^|*****=--====**========!====--===
+GGGGGOOOOOOOOOOOOOOOOOOGGGOOGS%8888888X%$SS$$$O+}++===++}}+==+===}!!****!=-========****=***====---==
+OOOOOOOOOOOOOOOOOOOOOOGGGOOOOOOOGS%%X88888888XX$SO++====+===+}??|!****----======**!!!!!!!**===-==-==
+
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+SSSSSSSSSSS$$$$$SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+SSSSSSSS$8#@@@@@@#X$SSSSSSSSSSSSSSSSSSSSS$X88888%$SSSSSSSSSS
+SSSSSS$&@@@@@@@@@@@#%SSSSSSSSSSSSSSSSSS8@@@@@@@@@@&$SSSSSSSS
+SSSSS$@@@@@@@@@@@@@@@8SSSSSSSSSSSSSSS$#@@@@@@@@@@@@@8SSSSSSS
+SSSSS&@@@@@@@@@@@@@@@@$SSSSSSSSSSSSSS#@@@@@@@@@@@@@@@XSSSSSS
+SSSSS#@@@@@@@@@@@@@@@@XSSSSSSSSSSSSS%@@@@@@@@@@@@@@@@#SSSSSS
+SSSSS&@@@@@@@@@@@@@@@@%SSSSSSSSSSSSSX@@@@@@@@@@@@@@@@#SSSSSS
+SSSSS%@@@@@@@@@@@@@@@&$$%8##@@@#&8%$$@@@@@@@@@@@@@@@@&SSSSSS
+SSSSSS%@@@@@@@@@@@@@@X$$SS$X#@&%$S$$$&@@@@@@@@@@@@@@@$SSSSSS
+SSSSSSS$8#@@@@@@@@@#$SSSSSSS$XSSSSSSSSX@@@@@@@@@@@@8$SSSSSSS
+SSSSSSSSSS$%XXX%%#@$SSSSSSSSSSSSSSSSSSS8@@&@@@@#&X$SSSSSSSSS
+SSSSSSSSSSSSSSS$#@8SSSSSS$X$SSS$%SSSSSS$@@8SSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSS&@@8SSSSS$@@&SS$&@%SSSSS$@@@%SSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSS%@@@#$SSSS$@$XSSX8@XSSSSS8@@@#SSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSS8@8X8XSSSS$@@&SS8@@XSSSSS8&&@@$SSSSSSSSSSSSSSS
+SSSSSSSSSSSSSS8$$%$SSSSSS888XX%8&$SSSSSS$S$@$SSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSXS88SSSSSSSS8#&&#8$SSSSSSS88$&$SSSSSSSSSSSSSSS
+SSSSSSSSSSSSSS$%S%8$SSSSS$@@@#@@$SSSSS$8$S$&SSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSX$S$8#8$SSS$$SS$$SSS$8@&SS$&%SSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSS$X$S$#@@$SSSSSSSSSS$@@#$SS8XSSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSSS%$S$8@8888XX8X&8X8@8$S$8$SSSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSSSS$X$S8@@##&88X8@##%S$X%$SSSSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSSSSSS$X%88$8@@@8##8%XX%SSSSSSSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSSSSSSSSS$X$$XX%$%X&XSSSSSSSSSSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSSSSSSSSSSS$$%%%%$$SSSSSSSSSSSSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                         .'",;~~^^^^~;;,'.                                          
+                                     .,~-------------------~,'                                      
+                                  .;^----=---------------------;'                                   
+                                "^-=-----------------------------^"                                 
+                              "^------------------------------------,                               
+                            .;---------------------------------------^'                             
+                           "--------------------------------------=----,                            
+                          "---------------=-----------===-=-------------,                           
+                         "--------------!OSO|-------=-=+SG}=-------------,                          
+                         ^-------------+@@@@@O------=*#@@@@8=-------------'                         
+                        ,-=----------=-|&@@@#}-=-----=%@@@@S=--=----------~                         
+                       .----------------=|+?==-----=---!}}*----------------'                        
+                       "-=-----------------------------------------------=-;                        
+                       ,==-------------------------------------------------~                        
+                       ,=--------------------------------------------------~                        
+                       "-=--------!*----------------------------==|--------;                        
+                       .----------}XO*-------------------------=O%O==--=---"                        
+                        ;----------=}%$!---------------------!SX+==-------^                         
+                        .----=--------|$%?----------------=}$$?---=-------'                         
+                         ,--------------*GXO*=----------!G%O!=-----------;                          
+                          ,---------------=}S%=|=---=?O%S?=-------------;                           
+                           ,-=-------------===|O$SSSS=!--------------=-;                            
+                            '^----------------------------------------"                             
+                              ,--=--------------------------------=-;.                              
+                               .,---------------------------------;.                                
+                                  "~------------------------=--^,.                                  
+                                    .";-------------==------~".                                     
+                                        .',;~^^-----^^~;,'.                                         
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+
+GGGGGGGGGGGGGGGGGGGGGGGGO"................................................"OGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGOO'                                                'OGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGOOOOOOOOOOOOOOOOOGOO'                                                'OOOOOOOOOOOOOOOOOOOOOOOOG
+GGGGGOOOOOOOOOOOOOOOOOOOO'                                                'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'                                                'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'                       ^-                       'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'                      -OO-                      'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'                     -OGGO-                     'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'               ^?-'.-OOGOGO=."^?^               'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'               '=GO=OOOOOOGO=OG='               'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'                !OGGGOOOOOGGGGO!                'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'           ;    ,OGGOOOOOOGGGGO,   .;.          'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'   ;^,'. .*O+~  .}GGOOOOOOGOGG}.  ;+O*.  ',^;   'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'   "=GGO=OGGOG?, ^OGGOOOOOOGGO- ,|OGGOO=OGO="   'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'    *OGGGOGGGOOO||GGGOOOOOOGGG?|OGGOGGGGGOG*    'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'    "OGGGGOOOOOOOOOOOOOOOOOOOOOOOOOOOOGGGG='    'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'  .;*OGGGGOOOOOOOOOOOOOOOOOOOOOOOOOOOGGGGOO*;.  'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'   ~|OOOGOOOOGGOOOOOOOOOOOOOOOOOGGOOOOOGGGO|;.  'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'     "*=OGGGGGOOOOOOOOOOOOOOOOOOOGGGGGOO=*"     'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'       .^}OOGGOOOOOOOOOOOOOOOOOOOGGOOO}^.       'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'          ,!OOGGOOOOOGGOOGGOOOOOOGG=|;          'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'            '+GOOOOOGGGGGGGGOOOGGG+'            'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'            "=GGGOO=+}?OO?}+=OGGGO="            'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'            ;^~,"..    *!    .'";~^;            'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'                       !|                       'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'                       ??                       'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'                       ++                       'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'                      .==.                      'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'                      .^^.                      'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'                                                'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'                                                'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGGGGOOOOOOOOOOOOOOOOOOOO'                                                'OOOOOOOOOOOOOOOOOOOOOOOGG
+GGOOGOGGGGGGGGGGGGGGGGGOO'                                                'OGGGGGGGGGGGGGGGGGGGGGGGG
+
+                                                 }@@X                                               
+                                                 }@@X                                               
+                                                 }@@X                                               
+                                                 }@@X                                               
+                                                 }@@X                                               
+                                                 }@@X                                               
+                                                 }@@X                                               
+                                          '~=!?+=X@@#=+}|*^".                                       
+                                    '^?OX#@@@@@@@@@@@@@@@@@@@8G}="                                  
+                                .^+X@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@8O='                              
+                              ^O#@@@@@@@@@@@@#8%$8@@#S$X&@@@@@@@@@@@@@S=.                           
+                           '?8@@@@@@@@@&S?=;'    }@@X    ',-|O8@@@@@@@@@#=,                         
+                         "=#@@@@@@@#G!,          }@@X          "*O&@@@@@@@@G~                       
+                       .?#@@@@@@@S*'             }@@X             .^O#@@@@@@@O"                     
+                      ~X@@@@@@#=,                }@@X                '?&@@@@@@&*                    
+                     |@@@@@@@O"                  }@@X                  '}#@@@@@@O.                  
+                    =@@@@@@8-                    }@@X                    ;%@@@@@@%'                 
+                   O@@@@@@$"                     }@@X                     .=@@@@@@%'                
+                  }@@@@@@S.                      }@@X                       }@@@@@@S.               
+                 ^@@@@@@$.                       }@@X                        +@@@@@@?               
+                .X@@@@@#,                        }@@X                        .%@@@@@#,              
+                -@@@@@@}                         }@@X                         -@@@@@@}              
+                O@@@@@@,                         }@@X                         .8@@@@@X              
+                X@@@@@X                          }@@X                          =@@@@@@"             
+======OOOOOOOOOO#@@@@@&GGGGGGGGGGSSSSSSSSSSSSS$$$8@@#$$$$$$%%%%%%%%%%%%%XXXXXXX&@@@@@@&88888888888&&
+@@@@@@@@@@@@@@@@@@@@@@@##########&&&&&&&&&&&&&888#@@@8888888XXXXXXXXXXXXX%%%%%%&@@@@@@%$$$$$$$$$$$$S
+               .X@@@@@X.                         }@@X                          O@@@@@@"             
+                =@@@@@@;                         }@@X                         .8@@@@@%              
+                ~@@@@@@O                         }@@X                         !@@@@@@|              
+                 S@@@@@@~                        }@@X                        '8@@@@@8'              
+                 ;#@@@@@8"                       }@@X                       .S@@@@@@*               
+                  !@@@@@@X,                      }@@X                      .G@@@@@@O                
+                   }@@@@@@8~                     }@@X                     "$@@@@@@S.                
+                    |@@@@@@@?.                   }@@X                    =&@@@@@@O.                 
+                     -&@@@@@@X-                  }@@X                  ;S@@@@@@#?                   
+                      "G@@@@@@@%=.               }@@X                ~G@@@@@@@%;                    
+                        -X@@@@@@@&=~             }@@X             ,|X@@@@@@@&!                      
+                          *X@@@@@@@@&O*,         }@@X         '-+X@@@@@@@@#}'                       
+                            ^G@@@@@@@@@@&$+!-;". }@@X .',^*?GX@@@@@@@@@@%!'                         
+                              '!$@@@@@@@@@@@@@@@##@@@&#@@@@@@@@@@@@@@X};                            
+                                 '-+X@@@@@@@@@@@@@@@@@@@@@@@@@@@@&G!,                               
+                                     '~|=%&@@@@@@@@@@@@@@@@#XG?-"                                   
+                                           .";^=*$@@&!*-~,'                                         
+                                                 }@@X                                               
+                                                 }@@X                                               
+                                                 }@@X                                               
+                                                 }@@X                                               
+                                                 }@@X                                               
+                                                 }@@X                                               
+                                                 }@@X                                               
+
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGXXXXX@@@X$SGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGSX@@@@@@@@@@@#SGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGS&@@@@@@@@@@@@%SGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG#@@@@@@@@@@@@X$SGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG&@@@@@@@@@@@@8$SSSSSSSSSSSSSGGGSSSGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG%@@@@@@@@@@@@X%$SSSSSSSSSSSSSSSSSSSSSSGSGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGSG$@@@@@@@@@@@@#X$$$$$$$$$$$$$$SSS$$SSSSSSSSSSGSGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGSSSS@@@@@@@@@@@@@&%$$$$$$$$$$$$$$$$$$$$$$$S$SSSSSSSSSGSGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGSSSS$$&@@@@@@@@@@@@&X%$$$%%%%%%%%%%$$$$$$$$$$$$$$$S$SSSSSSSSSSGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGSSSSS$S$$S@@@@@@@@@@@@#XX%%%%%%%%%%%%%%%%%%%%%%%$$$$$$$$$$$S$$$SSSSSSSGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGSSSSS$$$$$@@@@@@@@@@@@&&XX%%XXXXXXXXXXXXXX%%%%%%%%%%%%$$$$$$$$$$$$$SSSSSSGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGSSS$$$$$$$8@@@@@@@@@@@@&&8XXXXXXXXXXXXXXXXXXXXXXXXX%%%%%%%%%%%%%$$$$$$$$SSSSSGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGSSSSSS$$$$%%%&@@@@@@@@@@@@&#8XXXX88888888888888XXXXXXXXXXXX%%%%%%%%%%%%%$$$$$SSSSSGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGSSSSS$$$$%%%X8@@@@@@@@@@@@@#&8888888888888888888888888XXXXXXXXXXX%%%%%%%%%%$$$$$SSSSGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGSSSS$$$$$%%%%%X@@@@@@@@@@@@@##&888888&8&8&8&&&&8888888888888XXXXXXXXXXXXXX%%%%%$$$$$SSSSGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGSSSS$$$%%%%%X%@@@@@@@@@@@@@#&########&&###&&&&&&&&&&&&8888&888&&&&&888&&&&88888%$%%$$SSSSGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGSSS$$$$%%%%XXX&@@@@@@@@@@@@@@@@@@@@@@@@@&#&#@#####&&&&&&&8%@@@@@@@@@@@@@@@@@@@@@@@&8&%%$SSSGGGGGGGGGGGGG
+GGGGGGGGGGGGGGSSSS$$$$%%%%XXX#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&@##########&8@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#X$SSGGGGGGGGGGGG
+GGGGGGGGGGGGGSSSS$$$$%%%%XXXX@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@#########X@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&X$SSGGGGGGGGGGG
+GGGGGGGGGGGGGSSS$$$%%%%XXXX8@@@@@@@@@@@@@#&######@@@@@@@@@@@@&@@######@&#@@@@@@@@@@@@&@##@@@@@@@@@@@@@@@@X%$SSGGGGGGGGGG
+GGGGGGGGGGGGSSS$$$$%%%XXXXX&@@@@@@@@@@@@8@#####@@@@@@@@@@@@@@@#&####&&#&@@@@@@@@@@@@#@#&&&&&#&@@@@@@@@@@@&X%$SSGGGGGGGGG
+GGGGGGGGGGSSS$$$%XX%XX88888@@@@@@@@@@@@&@#&##&&#@@@@@@@@@@@@8@#&######&@@@@@@@@@@@@@#@&&&8&&&&@@@@@@@@@@@@XX%$$SSGGGGGGG
+GGGGGGGSS$$$$$$%%XXX88888X@@@@@@@@@@@@@#@##&&#&@@@@@@@@@@@@&@##&&&&&#8@@@@@@@@@@@@@8@#&&&&&&8@@@@@@@@@@@&&XX%%$$SSGGGGGG
+GGGGGGGSS$$$$%%%XXX88888#@@@@@@@@@@@@@&@###&#&&@@@@@@@@@@@@#@#&&####&&@@@@@@@@@@@@&@#&&&&&&&@@@@@@@@@@@&#8X%%%$$$SGGGGGG
+GGGGGGSSS$$$$$%%XXX8888&&@@@@@@@@@@@@#@&&&&&#&@@@@@@@@@@@@&@#&##&&&#X@@@@@@@@@@@@@#@&&&&&&&&@@@@@@@@@@@##8X%X%%$$SSGGGGG
+GGGGGGSSS$$$$$%%XXX88888@@@@@@@@@@@@&@@#&&&#8@@@@@@@@@@@@#@########&@@@@@@@@@@@@@8@#&&&##&8@@@@@@@@@@@&@&8XX%X%%$$SGGGGG
+GGGGGGSS$$$$$$%%XXX888X@@@@@@@@@@@@@@@&&&&#&@@@@@@@@@@@@@@@#######&&@@@@@@@@@@@@#@#&&&&&#&@@@@@@@@@@@&@#88XXXX%%$$SGGGGG
+GGGGGGSS$$$$$$%%XXXX8X#@@@@@@@@@@@@8@#&&&&&&@@@@@@@@@@@@&@#######&8@@@@@@@@@@@@@#@###&&#&@@@@@@@@@@@@#@&8&88XXX%$$SSGGGG
+GGGGGGSS$$$$$$%%XXXXX%@@@@@@@@@@@@&@#&&&&#&@@@@@@@@@@@@#@@#######&@@@@@@@@@@@@@&@#####&&#@@@@@@@@@@@@@###&88XXX%%$SSGGGG
+GGGGGGSS$$$$$$%%%XXXX@@@@@@@@@@@@&@#&#&&&&@@@@@@@@@@@@&@@#######&@@@@@@@@@@@@@#@&&###&#&@@@@@@@@@@@&@@###&88XXX%%$SSGGGG
+GGGGGGSS$$$$$$%%%XX8@@@@@@@@@@@@@#@###&&&&@@@@@@@@@@@@#@#######&@@@@@@@@@@@@@&@#&&###&&@@@@@@@@@@@@#@@###&&8XXX%%$SSGGGG
+GGGGGGSS$$$$$$$%%X%&@@@@@@@@@@@@@@####&#X@@@@@@@@@@@@@@@######&X@@@@@@@@@@@@@#@&&###&&@@@@@@@@@@@@8@@@###&88XXX%%$SSGGGG
+GGGGGGSSS$$$$$$%%XX@@@@@@@@@@@@@@#&&##&&@@@@@@@@@@@@&@@#######&@@@@@@@@@@@@@8@&&&&#&##@@@@@@@@@@@@@@@####&88XXX%%$SSGGGG
+GGGGGGSSS$$$$$$%%X@@@@@@@@@@@@@##&&&&&&@@@@@@@@@@@@@@@#######&@@@@@@@@@@@@@&@#&&&&&#&@@@@@@@@@@@@#@@@####&88XXX%$$SSGGGG
+GGGGGGGSS$$$$$$$X#@@@@@@@@@@@@&@&&&&&#&@@@@@@@@@@@@8@#&#####&&@@@@@@@@@@@@@@@&#&&&#&&@@@@@@@@@@@#@@@@###&&88XX%%$$SGGGGG
+GGGGGGGSSS$$$$$$8@@@@@@@@@@@@#@#&&&&&8@@@@@@@@@@@@&@@#&&&###8@@@@@@@@@@@@@&@&&&&&#&&@@@@@@@@@@@@@@@@@###&88XXX%$$SSGGGGG
+GGGGGGGSSS$$$$$%@@@@@@@@@@@@@@#&88&&&&@@@@@@@@@@@@#@######&X@@@@@@@@@@@@@@@&#&&&#&8@@@@@@@@@@@@#@@@@###&&88XX%%$$SGGGGGG
+GGGGGGGGSSS$$$%#@@@@@@@@@@@@&#&8888&X@@@@@@@@@@@@&@###&&##X@@@@@@@@@@@@@@@@#&&&##&@@@@@@@@@@@@#@@@####&&88XX%%$$SSGGGGGG
+GGGGGGGGGSSS$$S@@@@@@@@@@@@#@&8888&&@@@@@@@@@@@@%@#&&&&&#&&@@@@@@@@@@@@@#@&#####&#@@@@@@@@@@@&@@@@###&&88XXX%%$$SGGGGGGG
+GGGGGGGGGSSSS$@@@@@@@@@@@@@&&88888&#@@@@@@@@@@@@@###&&&&&&@@@@@@@@@@@@@@&#######@@@@@@@@@@@@&#@@@###&&88XXX%%$$SGGGGGGGG
+GGGGGGGGGGSSS@@@@@@@@@@@@@#&88888&8@@@@@@@@@@@@#@#&####&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@@@####&&88XXX%%$$SSGGGGGGGG
+GGGGGGGGGGGS%G&88########8&XXX888&@@@####@@@@@8@##&&&&&#X@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#@8@@@@####&&88XXX%%$$SSGGGGGGGGG
+GGGGGGGGGGGGSSS$$$$$$$$%%%XXXXXX888&&&&&######&#&&&&&&&&@@@@@@@@@@@@@@#######@@@###@@@@@@@@@#####&&88XXX%%$$SSGGGGGGGGGG
+GGGGGGGGGGGGGSSSS$$$$$$$%%%%XXXXXX8888888888888888&&&&&@@@@@@@@@@@@@&@@@@@@@@@@@@@@@@@@@@@@#&##&&888XXX%%$$SSGGGGGGGGGGG
+GGGGGGGGGGGGGGGSSSS$$$$$$$%%%%XXXXXX8888888888888888&&&@@@@@@@@@@@@#@@@@@@@@@@@@@@@@@@@@@#####&&88XXXX%%$SSGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGSSS$$$$$$$$$%%%%XXXXXXX888888888888&8#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@###&##&&888XXX%%$$$SGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGSSSSS$$$$$$$$%%%%XXXXXXX8888888888&%@@@@@@@@@@@@@#@@@@@@@@@@@@@@@@@@#####&&888XXXX%%$$SSGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGSSSSS$$$$$$$$%%%%XXXXXX88888888&#&@@@@@@@@@@@@8@@@@@@@@@@@@@@@######&&&888XXXX%%$$SSGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGSSSSS$$$$$$$$%%%%XXXXXX888888&&@@@@@@@@@@@@&@@@@@@@@@@@@#######&&&&888XXXX%%$$SSGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGSSSSS$$$$$$$$%%%%%XXXX8888&&@@@@@@@@@@@@@#@@@@@@##########&&&&8888XXXX%%$$SSSGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGSSS$$$$$$$$%%%%%%%XXX88%@@@@@@@@@@@@@#@#####&#####&&&&&88888XXXXX%%$$SSGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGSSS$S$$$$$$$%$%%%%XX8@@@@@@@@@@@@@8@##&&&&&&&&&&888888XXXXXX%%$$$$SGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGSSSS$S$$$$$$$%%%%%8@@@@@@@@@@@@&@&&&&8888888888XXXXXXX%%%$$$$SSGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGSSSS$S$$$$$$%%8@@@@@@@@@@@@@#&8888XXXXXXXXXXXXX%%%%$$$$SSGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGSSSS$S$$%@@@@@@@@@@@@@#8XXXXXXXXXXX%%%%%%$$$$SSSGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGSSSS&@@@@@@@@@@@@8&X%%%%%%%%%%$$$$$SSSSSGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG8@@@@@@@@@@@@&8%$$$$$$$$$SSSSSSSGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGXXXX@@@@@@@@&$SSSSSSSSSGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+
